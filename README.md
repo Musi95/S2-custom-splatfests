@@ -1,8 +1,33 @@
-# S2-custom-splatfests
-A repository for my collection of Custom Splatfests made for Splatoon 2, all made by me
+# S2 Custom Splatfests
 
+A collection of custom Splatfests for Splatoon 2, all created by me. Each Splatfest includes custom festival data, textures, and Versus settings.
 
-switch v wiiu: https://youtu.be/7ejuRVHYAas
-thomas v pj: https://youtu.be/jHk5q9drJYg
-pot of gold vs four leaf clover: https://www.youtube.com/watch?v=o8rJJ_6B3a0
-khajoor v salt: https://youtu.be/PI7APxvmta4
+## Splatfests
+
+### Switch vs Wii U
+
+[![Switch vs Wii U](https://img.youtube.com/vi/7ejuRVHYAas/0.jpg)](https://youtu.be/7ejuRVHYAas)
+
+### Thomas vs PJ
+
+[![Thomas vs PJ](https://img.youtube.com/vi/jHk5q9drJYg/0.jpg)](https://youtu.be/jHk5q9drJYg)
+
+### Pot of Gold vs Four Leaf Clover
+
+[![Pot of Gold vs Four Leaf Clover](https://img.youtube.com/vi/o8rJJ_6B3a0/0.jpg)](https://www.youtube.com/watch?v=o8rJJ_6B3a0)
+
+### Khajoor vs Salt
+
+[![Khajoor vs Salt](https://img.youtube.com/vi/PI7APxvmta4/0.jpg)](https://youtu.be/PI7APxvmta4)
+
+## Installation
+
+Download the version for your region (USA, EUR, or JPN). Drag the `atmosphere` folder onto the root of your SD card. That's it.
+
+## Contents
+
+Each Splatfest includes:
+- `System/GameConfigSetting.xml`
+- `DebugUnderPilot/bcat/fesdata/` (festival textures and stage data)
+- `DebugUnderPilot/bcat/vsdata/` (Versus mode settings)
+- `DebugUnderPilot/bcat/coopdata/` (Co-op settings)
