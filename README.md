@@ -1,6 +1,6 @@
 # S2 Custom Splatfests
 
-A collection of custom Splatfests for Splatoon 2, all created by me. Each Splatfest includes custom festival data, textures, and Versus settings.
+A collection of custom Splatfests for Splatoon 2 that I made for the Splatfest server. Each Splatfest includes custom festival data, textures, and Versus settings.
 
 ## Splatfests
 
